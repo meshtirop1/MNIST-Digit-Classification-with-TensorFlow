@@ -11,5 +11,7 @@ Modular Design: Separates configuration, model architecture, training, and infer
 Checkpointing: Saves model weights at each epoch, allowing for training resumption or real-time inference.
 Visualization: Displays predicted labels and the test image for quick evaluation.
 
-git clone https://github.com/meshtirop1/mnist-digit-classification.git
+
+
+https://github.com/meshtirop1/MNIST-Digit-Classification-with-TensorFlow.git
 cd mnist-digit-classification
